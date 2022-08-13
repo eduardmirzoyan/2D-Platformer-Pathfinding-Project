@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard1.3;net40</TargetFrameworks>
+    <Version>1.2.1</Version>
+    <Authors>Mateusz Mazurek</Authors>
+    <Company />
+    <Description>Graph processing library.</Description>
+    <PackageProjectUrl>https://github.com/matiii/Dijkstra.NET</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/matiii/Dijkstra.NET</RepositoryUrl>
+    <PackageTags>graphs graph-theory dijkstra page-rank</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+</Project>
